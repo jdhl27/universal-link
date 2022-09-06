@@ -5,5 +5,11 @@
   </head>
   <body>
     <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+    <input type="button" value="Send message to mobile!" onClick="showToast()"/> 
   </body>
+<script>
+  function showToast(toast) {
+    Android.showToast("Messageee desde la web al mobile");
+  }
+</script>
 </html>
