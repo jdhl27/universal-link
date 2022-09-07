@@ -22,12 +22,4 @@
     "sha256_cert_fingerprints":
     ["14:97:84:45:05:1A:24:6C:B7:19:8B:1C:3F:FF:36:DB:31:64:D0:81:E8:03:3F:BD:C3:EC:73:CB:C3:39:73:84"]
   }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.elcorteingles.supermercado.dev",
-    "sha256_cert_fingerprints":
-    ["14:97:84:45:05:1A:24:6C:B7:19:8B:1C:3F:FF:36:DB:31:64:D0:81:E8:03:3F:BD:C3:EC:73:CB:C3:39:73:84"]
-  }
 }]
