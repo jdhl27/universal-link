@@ -1,11 +1,41 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "G9A98QZ38G.com.elcorteingles.supermercado.dev",
-      "paths": ["*"]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T97YY3U368.com.elcorteingles.supermercado.alimentacion",
+                "paths": ["*"]
+            },
+            {
+                "appID": "T97YY3U368.com.elcorteingles.portugal.alimentacion",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "T97YY3U368.com.elcorteingles.hipercor.supermercado",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "G9A98QZ38G.com.elcorteingles.hipercor.dev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "G9A98QZ38G.com.elcorteingles.hipercor.dev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "G9A98QZ38G.com.elcorteingles.hipercor.dev",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
-    ]
-  }
 }
