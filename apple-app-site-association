@@ -8,33 +8,23 @@
             },
             {
                 "appID": "T97YY3U368.com.elcorteingles.portugal.alimentacion",
-                "paths": [
-                    "*"
-                ]
+                "paths": ["*"]
             },
             {
                 "appID": "T97YY3U368.com.elcorteingles.hipercor.supermercado",
-                "paths": [
-                    "*"
-                ]
+                "paths": ["*"]
+            },
+            {
+                "appID": "G9A98QZ38G.com.elcorteingles.supermercado.dev",
+                "paths": ["*"]
             },
             {
                 "appID": "G9A98QZ38G.com.elcorteingles.hipercor.dev",
-                "paths": [
-                    "*"
-                ]
+                "paths": ["*"]
             },
             {
-                "appID": "G9A98QZ38G.com.elcorteingles.hipercor.dev",
-                "paths": [
-                    "*"
-                ]
-            },
-            {
-                "appID": "G9A98QZ38G.com.elcorteingles.hipercor.dev",
-                "paths": [
-                    "*"
-                ]
+                "appID": "G9A98QZ38G.com.elcorteingles.portugal.dev",
+                "paths": ["*"]
             }
         ]
     }
