@@ -2,10 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [
-            {
-                "appID": "T97YY3U368.com.elcorteingles.supermercado.alimentacion",
-                "paths": ["/supermercado/*"]
-            },
+
             {
                 "appID": "T97YY3U368.com.elcorteingles.portugal.alimentacion",
                 "paths": ["/supermercado/*"]
