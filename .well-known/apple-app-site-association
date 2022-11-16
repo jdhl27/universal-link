@@ -4,9 +4,7 @@
         "details": [
             {
                 "appID": "T97YY3U368.com.elcorteingles.supermercado.alimentacion",
-                "paths": [
-                    "*"
-                ]
+                "paths": ["*"]
             },
             {
                 "appID": "T97YY3U368.com.elcorteingles.portugal.alimentacion",
